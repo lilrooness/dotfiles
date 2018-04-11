@@ -4,3 +4,5 @@ colorscheme solarized
 set background=dark
 set noswapfile
 
+set number
+set relativenumber
